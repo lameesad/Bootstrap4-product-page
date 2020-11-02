@@ -1,0 +1,21 @@
+body { padding-top: 80px; }
+.product-card {
+  height: 100%;
+  border-radius: 0;
+  border: none;
+  background-color: #f9f9f9;
+  border-top: 4px solid #fec221;
+}
+.bg-red { background-color: #d63f2e; }
+.card-footer.btn {
+  background-color: #005980;
+  border: none;
+  border-radius: 0;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.card-footer.btn:hover {
+  background-color: #007cad;
+}
